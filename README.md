@@ -1,5 +1,4 @@
-# Finstreet-internship-test
-Finstreet Customer Details APIs
+Customer Details APIs
 Using Node.js, MySQL and JWT
 
 HTML form:
